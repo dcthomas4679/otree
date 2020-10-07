@@ -1,3 +1,4 @@
+dcthomas
 MAul
 MBarber
 HBoughman
@@ -16,10 +17,10 @@ BHorine
 NHurm
 MJackson
 BKennis
-Blair
+PBlair
 MLingle
 AOwens
-MProce
+Mproce
 RRai
 CRobinson
 ORoss
@@ -28,8 +29,6 @@ DSalyers
 JSamuelson
 JSerf
 MShohatee
-KSprout
-DThomas
 NUnderhill
 LVanMatre
 MVidovic
