@@ -1,1 +1,2 @@
-otree>=2.1.8
+otree>=3.2.3
+python>=3.7.6
